@@ -1,0 +1,11 @@
+.owl-dots {
+    display: none !important;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, .3);
+}
+
+.pheichham-data:hover {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
